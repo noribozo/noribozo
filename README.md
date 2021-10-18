@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noribozo
-- 👀 I’m interested in learning and becoming a front-end developer and continue learning
-- 🌱 I’m currently learning React with Scrimba, I'm familiar with HTML, CSS, Bootstrap, JavaScript, I have built some static websites
+- 👀 I’m interested in learning and becoming a front-end developer and continuing learning
+- 🌱 I’m currently doing some (15) React projects with John Smilga's FreeCodeCamp course
 - 💞️ I’m looking to collaborate on anything that teaches me how to collaborate
 - 📫 How to reach me:  on bozonori@gmail.com
 

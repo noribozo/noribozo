@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noribozo
-- 👀 I’m interested in learning and becoming a front-end developer and continuing learning
-- 🌱 I’m currently doing some (15) React projects with John Smilga's FreeCodeCamp course
-- 💞️ I’m looking to collaborate on anything that teaches me how to collaborate
+- 👀 I’m interested in learning new technologies and working on challenging projects and creating anything that works well
+- 🌱 I’m currently working as a junior front-end dev, learning Angular and enjoy working in a team
+- 💞️ I’m looking to find ways to become better at my profession
 - 📫 How to reach me:  on bozonori@gmail.com
 
 <!---
